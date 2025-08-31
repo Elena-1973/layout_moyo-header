@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, Arial,sans-serif;
   font-size: 12px;
   font-weight: 500;
   font-style: normal;
@@ -16,11 +16,9 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0;
-  padding: 0;
   background-color: #fff;
   box-shadow: 0 2px 0 #0000000d;
-  margin-inline: 50px;
+  padding: 0 50px;
 }
 
 .logo {
@@ -39,8 +37,6 @@ body {
   color: black;
   flex-direction: row;
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 .nav_links {
@@ -52,7 +48,6 @@ body {
   position: relative;
   color: black;
   margin-left: 20px;
-  padding: 0;
   box-sizing: border-box;
 }
 
